@@ -82,6 +82,8 @@ def homenzinho(erros = 0):
     __⊥__
     ''')
 
+
+
 # DIGITE A PALAVRA PARA SER ADIVINHADA
 # NÃO ADICIONE ACENTUAÇÃO!! iquei cm preguiça de otimizar :)
 palavra_escolhida = 'CAIXA DAGUA'
